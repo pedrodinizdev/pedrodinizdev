@@ -21,7 +21,7 @@ Curto ler, comer, codar e jogar.
          title="Me acompanhe"
          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&cacheSeconds=0"/>
          </a>
-         <a href="mailto:pedrodiniz.medeiros@gmail.com">
+         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrodiniz.medeiros@gmail.com">
          <img 
          alt="Gmail"
          title="Entre em contato"
