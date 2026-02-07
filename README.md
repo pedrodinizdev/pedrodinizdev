@@ -9,7 +9,7 @@ Interessado em desenvolvimento back-end e em entender como sistemas funcionam po
 Curto ler, comer, codar e jogar.
 
 <p align="center">
-    <a href="https://instagram.com/elpedrone">
+    <a href="https://instagram.com/elpedrone/">
          <img 
          alt="Instagram"
          title="Me siga"
@@ -21,11 +21,11 @@ Curto ler, comer, codar e jogar.
          title="Me acompanhe"
          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&cacheSeconds=0"/>
          </a>
-         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrodiniz.medeiros@gmail.com">
+         <a href="mailto:pedrodiniz.medeiros@gmail.com">
          <img 
          alt="Gmail"
          title="Entre em contato"
-         src="https://img.shields.io/badge/Email-C5221F?style=flat&logo=gmail&logoColor=white"/>
+         src="https://img.shields.io/badge/pedrodiniz.medeiros@gmail.com-C5221F?style=flat&logo=gmail&logoColor=white"/>
     </a>
 </p>
     
