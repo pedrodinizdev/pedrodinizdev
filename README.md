@@ -9,11 +9,11 @@ Interessado em desenvolvimento back-end e em entender como sistemas funcionam po
 Curto ler, comer, codar e jogar.
 
 <p align="center">
-    <a href="https://www.instagram.com/elpedrone/">
+    <a href="https://www.instagram.com/elpedrone?igsh=bXhyNHFuMGRveTNm">
          <img 
          alt="Instagram"
          title="Me siga"
-         src="https://img.shields.io/badge/@elpedrone-FF0069?style=flat&logo=instagram&logoColor=white"/>
+       src="https://img.shields.io/badge/@elpedrone-FF0069?style=flat&logo=instagram&logoColor=white"/>
          </a>
          <a href="https://www.linkedin.com/in/pedrodinizdev">
          <img 
